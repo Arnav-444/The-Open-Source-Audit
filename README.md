@@ -107,8 +107,8 @@ which we audit with `oss_audit`.
 ### Build & Run
 **Clone the repo:**
 ```console
-git clone git@github.com:vmware/rules_oss_audit.git
-cd rules_oss_audit
+git clone https://github.com/Arnav-444/The-Open-Source-Audit.git
+cd The-Open-Source-Audit
 ```
 
 **Audit the example `.rpm`:**
